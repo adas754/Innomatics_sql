@@ -1,1 +1,1 @@
-# Innomatics_sql
+# Some Sql Questions with Answers
